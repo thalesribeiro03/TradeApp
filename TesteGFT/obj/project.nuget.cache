@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6/0GrZ2krVWiT9WDuQ4P2D+4C78c2UFf6le18U1kz3FvhtYM24TYNWbjwA/xrq1o/TMSel06Os66vM+jSkso0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thales.ribeiro\\Desktop\\TESTE_GFT\\TesteGFT\\TesteGFT\\TesteGFT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thales.ribeiro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

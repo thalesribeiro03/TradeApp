@@ -1,0 +1,39 @@
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.exe
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.AssemblyInfoInputs.cache
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.AssemblyInfo.cs
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.deps.json
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.runtimeconfig.json
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.runtimeconfig.dev.json
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.dll
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.pdb
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.csproj.CopyComplete
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.dll
+D:\Repositorios\TesteGFT\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.pdb
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.exe
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.deps.json
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.runtimeconfig.json
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.runtimeconfig.dev.json
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.dll
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.pdb
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.csprojAssemblyReference.cache
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.AssemblyInfoInputs.cache
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.AssemblyInfo.cs
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.csproj.CoreCompileInputs.cache
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.csproj.CopyComplete
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.dll
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.pdb
+D:\Usuarios\thales.ribeiro\downloads\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.genruntimeconfig.cache
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.exe
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.deps.json
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.runtimeconfig.json
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.runtimeconfig.dev.json
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.dll
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\TesteGFT.pdb
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.AssemblyInfoInputs.cache
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.AssemblyInfo.cs
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.csproj.CopyComplete
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.dll
+C:\Users\thall\OneDrive\Área de Trabalho\TesteGFT\TesteGFT\obj\Debug\netcoreapp3.1\TesteGFT.pdb
